@@ -4,8 +4,6 @@ Extension Name: TalentDirect Autofill
 Contact Email:[Sampath.velupula@gmail.com](mailto:Sampath.velupula@gmail.com)
 Scope: Specific job application platforms (not `<all_urls>`)
 
-You can copy and host this as your official Privacy Policy URL.
-
 ---
 
 # Privacy Policy for TalentDirect Autofill
@@ -22,7 +20,7 @@ This extension operates only to support job application autofill functionality a
 
 ## 2. Information We Collect
 
-TalentDirect Autofill stores information **directly provided by the user, which may include:
+TalentDirect Autofill stores information directly provided by the user, which may include:
 
 * Full name
 * Email address
