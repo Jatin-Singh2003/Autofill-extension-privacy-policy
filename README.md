@@ -1,1 +1,150 @@
 # Autofill-extension-privacy-policy
+
+Extension Name: TalentDirect Autofill
+Contact Email:[Sampath.velupula@gmail.com](mailto:Sampath.velupula@gmail.com)
+Scope: Specific job application platforms (not `<all_urls>`)
+
+You can copy and host this as your official Privacy Policy URL.
+
+---
+
+# Privacy Policy for TalentDirect Autofill
+
+Last Updated: March 2026
+
+## 1. Overview
+
+TalentDirect Autofill is a Chrome extension designed to help job seekers save time by securely storing their profile information and auto-filling repetitive fields on online job application forms.
+
+This extension operates only to support job application autofill functionality and does not engage in advertising, tracking, analytics, or data resale.
+
+---
+
+## 2. Information We Collect
+
+TalentDirect Autofill stores information **directly provided by the user, which may include:
+
+* Full name
+* Email address
+* Phone number
+* Address
+* Resume details
+* Employment history
+* Education details
+* Other job application–related responses entered by the user
+
+We do not collect:
+
+* Health information
+* Financial or payment information
+* Passwords or authentication credentials
+* Personal communications
+* Location data
+* Browsing history
+
+---
+
+## 3. How We Use Information
+
+The stored information is used solely to:
+
+* Auto-fill job application forms when the user initiates the action
+* Allow users to manage, edit, or update their saved profile data
+
+TalentDirect Autofill does not automatically submit job applications. Final submission is always controlled by the user.
+
+---
+
+## 4. Where Data Is Stored
+
+All user data is stored locally within the user's browser using Chrome’s storage APIs.
+
+We do not:
+
+* Transmit user data to external servers
+* Sell or rent user data
+* Share user data with third parties
+* Use data for advertising purposes
+* Use analytics or behavioral tracking
+
+Data remains on the user's device unless the user manually submits it within a job application form.
+
+---
+
+## 5. Website Permissions & Platform Support
+
+The extension requests access only to job application websites to enable autofill functionality.
+
+TalentDirect Autofill includes optimized autofill strategies for major Applicant Tracking Systems (ATS), including:
+
+### Primary Platforms
+
+* Greenhouse
+* Lever
+* Workday
+* Ashby
+* LinkedIn
+* Indeed
+
+### Enterprise Platforms
+
+* Oracle Cloud
+* SAP SuccessFactors
+* Taleo
+* BrassRing
+* iCIMS
+
+### Modern / SaaS Platforms
+
+* Workable
+* BambooHR
+* Personio
+* Recruitee
+* Rippling
+* SmartRecruiters
+* Teamtailor
+* JazzHR
+
+### Regional / Niche Platforms
+
+* ADP
+* Paychex
+* Paycom
+* UKG
+
+For unsupported or custom job boards, a generic autofill strategy may be used to identify standard form fields.
+
+The extension only reads form fields necessary to provide autofill functionality and does not scrape unrelated website content.
+
+---
+
+## 6. Remote Code
+
+TalentDirect Autofill does not load or execute remote code.
+All scripts and logic are packaged within the extension bundle.
+
+---
+
+## 7. User Control
+
+Users may:
+
+* Edit or delete their stored profile information at any time
+* Remove the extension to delete all locally stored data
+
+Uninstalling the extension removes stored data from the browser.
+
+---
+
+## 8. Policy Updates
+
+If future updates change how data is handled, this Privacy Policy will be updated accordingly, and the “Last Updated” date will be revised.
+
+---
+
+## 9. Contact Information
+
+If you have any questions regarding this Privacy Policy, please contact:
+
+Sampath Velupula
+📧 [Sampath.velupula@gmail.com](mailto:Sampath.velupula@gmail.com)
