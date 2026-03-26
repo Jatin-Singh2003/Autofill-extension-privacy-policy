@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "firstname": "John",
+    "lastname": "Doe",
+    "label": "AI Engineer",
+    "email": "johndoe@example.com",
+    "phone": "(123) 456-7890",
+    "url": "https://www.linkedin.com/in/johndoe",
+    "summary": "AI Engineer with several years of experience in software development, specializing in production AI systems, Large Language Models (LLMs), and Retrieval Augmented Generation (RAG). Skilled in building scalable backend systems and intelligent data pipelines.",
+    "location": {
+      "address": "City, State",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "johndoe",
+        "url": "https://www.linkedin.com/in/johndoe"
+      },
+      {
+        "network": "GitHub",
+        "username": "johndoe",
+        "url": "https://www.github.com/johndoe"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company A",
+      "position": "AI Engineer",
+      "startDate": "2024-01-01",
+      "endDate": "present",
+      "highlights": [
+        "Worked on AI-based systems handling large-scale unstructured data.",
+        "Improved search and retrieval quality using hybrid approaches.",
+        "Implemented validation techniques to improve model reliability.",
+        "Optimized system performance using caching and batching.",
+        "Built streaming pipelines for real-time data processing."
+      ]
+    },
+    {
+      "name": "Company B",
+      "position": "AI Engineer Intern",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-01",
+      "highlights": [
+        "Developed end-to-end AI workflows for automation tasks.",
+        "Designed structured data pipelines for ingestion and processing.",
+        "Built search and question-answering systems using vector databases.",
+        "Integrated APIs for automation and orchestration.",
+        "Implemented evaluation and monitoring frameworks."
+      ]
+    },
+    {
+      "name": "Company C",
+      "position": "Senior Software Engineer",
+      "startDate": "2020-01-01",
+      "endDate": "2022-12-01",
+      "highlights": [
+        "Designed scalable backend systems and distributed architectures.",
+        "Built ETL pipelines for large-scale data processing.",
+        "Improved system performance through optimization techniques.",
+        "Established CI/CD pipelines and testing frameworks.",
+        "Mentored team members and conducted technical reviews."
+      ]
+    },
+    {
+      "name": "Company D",
+      "position": "Software Engineer",
+      "startDate": "2018-01-01",
+      "endDate": "2019-12-01",
+      "highlights": [
+        "Developed backend services and REST APIs.",
+        "Built data pipelines for processing and transformation.",
+        "Improved database performance through query optimization.",
+        "Integrated third-party services and APIs.",
+        "Automated workflows to reduce manual effort."
+      ]
+    },
+    {
+      "name": "Company E",
+      "position": "Software Engineer",
+      "startDate": "2017-01-01",
+      "endDate": "2017-12-01",
+      "highlights": [
+        "Developed backend systems and APIs.",
+        "Optimized database schemas and queries.",
+        "Built data preprocessing pipelines.",
+        "Supported testing and debugging efforts."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University Name",
+      "area": "Information Systems",
+      "studyType": "Master of Science",
+      "endDate": "2024-01-01",
+      "location": "City, State, USA"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": ["Python", "Java", "TypeScript", "SQL"]
+    },
+    {
+      "name": "AI Systems",
+      "keywords": ["RAG pipelines", "LLM systems", "Prompt Engineering", "Evaluation"]
+    },
+    {
+      "name": "Search",
+      "keywords": ["Vector Search", "Hybrid Retrieval", "Semantic Search", "Graph Databases"]
+    },
+    {
+      "name": "Systems",
+      "keywords": ["REST APIs", "Microservices", "Distributed Systems"]
+    },
+    {
+      "name": "Data",
+      "keywords": ["ETL Pipelines", "Batch Processing", "Streaming Systems"]
+    },
+    {
+      "name": "Cloud",
+      "keywords": ["GCP", "AWS", "Azure"]
+    }
+  ],
+  "certificates": [
+    { "name": "Cloud Certification" },
+    { "name": "AI Fundamentals Certification" },
+    { "name": "Security Certification" }
+  ]
+}
